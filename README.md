@@ -1,7 +1,7 @@
 # AndroidRPN
 RPN calculator app built with Android Studio using Java. Performs simple arithmetic operations (addition, subtraction, multiplication, division).
 
-Some commands to try:
+The commands performed in the video recording:
  - C (Clear) Erases memory
  - 6 (Enter) 4 (+) -> 10
  - 6 (Enter) 6 (Enter) 3 (Enter) 2 (-) (+) (*) -> 42
