@@ -1,2 +1,2 @@
 # AndroidRPN
-Android RPN calculator app 
+RPN calculator app built with Android Studio using Java
